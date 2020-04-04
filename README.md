@@ -4,7 +4,7 @@ Simple Todo list app for desktop
 
 ## Usage
 
-In dist choose prebuild version Suiting your needs 
+In dist choose prebuild version suiting your needs 
 
 Or
 
