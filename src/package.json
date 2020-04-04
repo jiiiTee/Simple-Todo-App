@@ -1,0 +1,23 @@
+{
+  "name": "TODO-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "views/main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "window": {
+    "title": "Todo-list",
+    "icon": "assets/icon.png",
+    "toolbar": true,
+    "width": 700,
+    "height": 800,
+    "min_width": 650,
+    "min_height": 500,
+    "position": "mouse",
+    "resizable": true
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
