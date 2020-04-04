@@ -1,11 +1,11 @@
 {
-  "name": "TODO-list",
+  "name": "ToDo-list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nw src",
-    "prod": "nwbuild --platforms win32,win64,osx64,linux32,linux64 --buildDir dist/ src/"
+    "prod": "nwbuild --platforms win32,win64,osx64,linux32,linux64 --buildDir dist/ ToDo-list/"
   },
   "keywords": [],
   "author": "",
