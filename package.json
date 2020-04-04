@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nw src",
-    "prod": "nwbuild --platforms win32,win64,osx64,linux32,linux64 --buildDir dist/ ToDo-list/"
+    "prod": "nwbuild --platforms win32,win64,osx64,linux32,linux64 --buildDir dist/ src/"
   },
   "keywords": [],
   "author": "",
