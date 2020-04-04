@@ -1,8 +1,3 @@
-/*
-    var number = 3;
-    document.getElementById("NuberOfItems").innerHTML = "1";//number.toString();
-}*/
-
 let items = [];
 
 function addItem() {
